@@ -1,7 +1,7 @@
 services:
   palworld-server:
     # https://github.com/pocketpairjp/palworld-dedicated-server-docker/pkgs/container/palserver
-    image: ghcr.io/pocketpairjp/palserver:v1.0.4.102642
+    image: ghcr.io/pocketpairjp/palserver:v1.0.5.102999
 
     entrypoint: /pal/helper.sh
 
